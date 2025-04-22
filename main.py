@@ -22,4 +22,8 @@ if __name__ == "__main__":
     print(dog1.speak())
     print("-----")
 
-
+# TODO print out all the animals
+    print("All animals:")
+    Animal.all_animals
+    print(animal1)
+    print(dog1)
